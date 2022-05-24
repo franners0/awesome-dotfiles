@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/wallhaven-8xyrmj.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b09",
+        "foreground": "#fff8f4",
+        "cursor": "#fff8f4"
+    },
+    "colors": {
+        "color0": "#0a0b09",
+        "color1": "#80715F",
+        "color2": "#7A6F68",
+        "color3": "#A28D7C",
+        "color4": "#887971",
+        "color5": "#837E81",
+        "color6": "#958273",
+        "color7": "#c4bdba",
+        "color8": "#23261f",
+        "color9": "#b4946d",
+        "color10": "#ad8d78",
+        "color11": "#e5b58e",
+        "color12": "#c09882",
+        "color13": "#ba93ab",
+        "color14": "#d2a684",
+        "color15": "#fff8f4"
+    }
+}

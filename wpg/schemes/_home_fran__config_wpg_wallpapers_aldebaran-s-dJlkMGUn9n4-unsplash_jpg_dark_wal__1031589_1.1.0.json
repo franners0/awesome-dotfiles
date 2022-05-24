@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/aldebaran-s-dJlkMGUn9n4-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09070c",
+        "foreground": "#ffd9cf",
+        "cursor": "#ffd9cf"
+    },
+    "colors": {
+        "color0": "#09070c",
+        "color1": "#C7443D",
+        "color2": "#841E22",
+        "color3": "#D04E46",
+        "color4": "#902E30",
+        "color5": "#B24746",
+        "color6": "#AD3837",
+        "color7": "#edaaa2",
+        "color8": "#20182c",
+        "color9": "#ff493e",
+        "color10": "#b61c22",
+        "color11": "#ff5548",
+        "color12": "#c72f32",
+        "color13": "#f74c4a",
+        "color14": "#ef3a38",
+        "color15": "#ffd9cf"
+    }
+}

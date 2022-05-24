@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/majid_Sanaye_3sL9pc4f23E.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090808",
+        "foreground": "#c4e2f3",
+        "cursor": "#c4e2f3"
+    },
+    "colors": {
+        "color0": "#090808",
+        "color1": "#A58877",
+        "color2": "#4B5CA1",
+        "color3": "#7694AC",
+        "color4": "#A89F9D",
+        "color5": "#C9B0A1",
+        "color6": "#BABCC5",
+        "color7": "#c4e2f3",
+        "color8": "#899eaa",
+        "color9": "#A58877",
+        "color10": "#4B5CA1",
+        "color11": "#7694AC",
+        "color12": "#A89F9D",
+        "color13": "#C9B0A1",
+        "color14": "#BABCC5",
+        "color15": "#c4e2f3"
+    }
+}

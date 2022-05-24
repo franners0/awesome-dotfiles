@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Łukasz_Nieścioruk_ooTsK7AUfXA.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#dfe0e0",
+        "cursor": "#dfe0e0"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#A65C28",
+        "color2": "#97876D",
+        "color3": "#7B8281",
+        "color4": "#8F8E8E",
+        "color5": "#ACACAB",
+        "color6": "#C2C0BB",
+        "color7": "#dfe0e0",
+        "color8": "#9c9c9c",
+        "color9": "#A65C28",
+        "color10": "#97876D",
+        "color11": "#7B8281",
+        "color12": "#8F8E8E",
+        "color13": "#ACACAB",
+        "color14": "#C2C0BB",
+        "color15": "#dfe0e0"
+    }
+}

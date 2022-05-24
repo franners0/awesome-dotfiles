@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/fluxpurple.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020B1C",
+        "foreground": "#cbd2ff",
+        "cursor": "#cbd2ff"
+    },
+    "colors": {
+        "color0": "#020B1C",
+        "color1": "#BF364E",
+        "color2": "#1A4D51",
+        "color3": "#5B134D",
+        "color4": "#291F5D",
+        "color5": "#9E1647",
+        "color6": "#0F2A4D",
+        "color7": "#979cc0",
+        "color8": "#031c4c",
+        "color9": "#ff365b",
+        "color10": "#1a6a70",
+        "color11": "#7d1168",
+        "color12": "#2f2081",
+        "color13": "#d91058",
+        "color14": "#0d356a",
+        "color15": "#cbd2ff"
+    }
+}

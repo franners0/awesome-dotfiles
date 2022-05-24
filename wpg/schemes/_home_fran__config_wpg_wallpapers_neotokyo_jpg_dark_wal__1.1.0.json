@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/neotokyo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#05181D",
+        "foreground": "#aec3c0",
+        "cursor": "#aec3c0"
+    },
+    "colors": {
+        "color0": "#05181D",
+        "color1": "#5C4058",
+        "color2": "#982C33",
+        "color3": "#A4304F",
+        "color4": "#C24658",
+        "color5": "#445A90",
+        "color6": "#B8609C",
+        "color7": "#aec3c0",
+        "color8": "#798886",
+        "color9": "#5C4058",
+        "color10": "#982C33",
+        "color11": "#A4304F",
+        "color12": "#C24658",
+        "color13": "#445A90",
+        "color14": "#B8609C",
+        "color15": "#aec3c0"
+    }
+}

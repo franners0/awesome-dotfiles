@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/mclaren.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101519",
+        "foreground": "#cacdcc",
+        "cursor": "#cacdcc"
+    },
+    "colors": {
+        "color0": "#101519",
+        "color1": "#579AAB",
+        "color2": "#5CB2C8",
+        "color3": "#6ABBD0",
+        "color4": "#6EC5D7",
+        "color5": "#6FD4ED",
+        "color6": "#73DAF4",
+        "color7": "#cacdcc",
+        "color8": "#8d8f8e",
+        "color9": "#579AAB",
+        "color10": "#5CB2C8",
+        "color11": "#6ABBD0",
+        "color12": "#6EC5D7",
+        "color13": "#6FD4ED",
+        "color14": "#73DAF4",
+        "color15": "#cacdcc"
+    }
+}

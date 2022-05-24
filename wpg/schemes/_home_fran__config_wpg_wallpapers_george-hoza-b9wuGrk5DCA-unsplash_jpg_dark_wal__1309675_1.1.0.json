@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/george-hoza-b9wuGrk5DCA-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#051506",
+        "foreground": "#fcffff",
+        "cursor": "#fcffff"
+    },
+    "colors": {
+        "color0": "#051506",
+        "color1": "#9A8E6C",
+        "color2": "#6B8B5B",
+        "color3": "#CB9B6F",
+        "color4": "#A7A59C",
+        "color5": "#CEB6AA",
+        "color6": "#728F8E",
+        "color7": "#d5dad9",
+        "color8": "#0d3e10",
+        "color9": "#d9c07b",
+        "color10": "#86c367",
+        "color11": "#ffc87b",
+        "color12": "#eee3b5",
+        "color13": "#ffe4c4",
+        "color14": "#83cac8",
+        "color15": "#fcffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/peter-ivey-hansen-ZkC0lNON4B4-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050D10",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#050D10",
+        "color1": "#615D51",
+        "color2": "#5A788D",
+        "color3": "#938878",
+        "color4": "#026595",
+        "color5": "#867A6A",
+        "color6": "#4E8CA8",
+        "color7": "#c8c5c0",
+        "color8": "#0f2c37",
+        "color9": "#897e5d",
+        "color10": "#669ec6",
+        "color11": "#d0b48a",
+        "color12": "#0183c3",
+        "color13": "#bda07a",
+        "color14": "#55bcea",
+        "color15": "#fffff9"
+    }
+}

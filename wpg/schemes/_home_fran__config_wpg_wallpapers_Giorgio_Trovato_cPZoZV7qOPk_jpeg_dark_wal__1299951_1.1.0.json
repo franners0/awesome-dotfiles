@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Giorgio_Trovato_cPZoZV7qOPk.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060606",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#060606",
+        "color1": "#707070",
+        "color2": "#D7D7D7",
+        "color3": "#B1B1B1",
+        "color4": "#E9E9E9",
+        "color5": "#909090",
+        "color6": "#C8C8C8",
+        "color7": "#f1f1f1",
+        "color8": "#1f1f1f",
+        "color9": "#a08383",
+        "color10": "#ffe5e5",
+        "color11": "#fdcfcf",
+        "color12": "#ffe5e5",
+        "color13": "#cda8a8",
+        "color14": "#ffe5e5",
+        "color15": "#ffffff"
+    }
+}

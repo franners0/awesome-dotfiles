@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Theo_Moine_8ZqhX0wmx3o.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191310",
+        "foreground": "#e7e2df",
+        "cursor": "#e7e2df"
+    },
+    "colors": {
+        "color0": "#191310",
+        "color1": "#80805E",
+        "color2": "#A39165",
+        "color3": "#DD9C6B",
+        "color4": "#E0AC9C",
+        "color5": "#C5B4A8",
+        "color6": "#DCD1CC",
+        "color7": "#e7e2df",
+        "color8": "#a19e9c",
+        "color9": "#80805E",
+        "color10": "#A39165",
+        "color11": "#DD9C6B",
+        "color12": "#E0AC9C",
+        "color13": "#C5B4A8",
+        "color14": "#DCD1CC",
+        "color15": "#e7e2df"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/patrick-schatz-0Kvk4M4Luag-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080A05",
+        "foreground": "#c5cacb",
+        "cursor": "#c5cacb"
+    },
+    "colors": {
+        "color0": "#080A05",
+        "color1": "#A9A809",
+        "color2": "#CBC838",
+        "color3": "#998D71",
+        "color4": "#56798A",
+        "color5": "#6F8E9C",
+        "color6": "#5DB5D3",
+        "color7": "#c5cacb",
+        "color8": "#898d8e",
+        "color9": "#A9A809",
+        "color10": "#CBC838",
+        "color11": "#998D71",
+        "color12": "#56798A",
+        "color13": "#6F8E9C",
+        "color14": "#5DB5D3",
+        "color15": "#c5cacb"
+    }
+}

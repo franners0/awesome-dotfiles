@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/yrka-pictured-rzM-3n2fdkI-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#08050B",
+        "foreground": "#ddadc5",
+        "cursor": "#ddadc5"
+    },
+    "colors": {
+        "color0": "#08050B",
+        "color1": "#674473",
+        "color2": "#B3464F",
+        "color3": "#0D3D84",
+        "color4": "#0F4A98",
+        "color5": "#515FB1",
+        "color6": "#975C96",
+        "color7": "#ddadc5",
+        "color8": "#9a7989",
+        "color9": "#674473",
+        "color10": "#B3464F",
+        "color11": "#0D3D84",
+        "color12": "#0F4A98",
+        "color13": "#515FB1",
+        "color14": "#975C96",
+        "color15": "#ddadc5"
+    }
+}

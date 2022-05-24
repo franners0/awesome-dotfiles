@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/george-bale-8hqT2pmL4TQ-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#08080D",
+        "foreground": "#d2d8e0",
+        "cursor": "#d2d8e0"
+    },
+    "colors": {
+        "color0": "#08080D",
+        "color1": "#A24524",
+        "color2": "#F36F1B",
+        "color3": "#FE8231",
+        "color4": "#D98858",
+        "color5": "#2F7287",
+        "color6": "#6494A5",
+        "color7": "#d2d8e0",
+        "color8": "#93979c",
+        "color9": "#A24524",
+        "color10": "#F36F1B",
+        "color11": "#FE8231",
+        "color12": "#D98858",
+        "color13": "#2F7287",
+        "color14": "#6494A5",
+        "color15": "#d2d8e0"
+    }
+}

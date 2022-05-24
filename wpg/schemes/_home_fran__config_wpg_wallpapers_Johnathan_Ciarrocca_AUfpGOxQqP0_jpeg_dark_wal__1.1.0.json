@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Johnathan_Ciarrocca_AUfpGOxQqP0.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090906",
+        "foreground": "#ccd2cf",
+        "cursor": "#ccd2cf"
+    },
+    "colors": {
+        "color0": "#090906",
+        "color1": "#66695F",
+        "color2": "#9F1006",
+        "color3": "#D01D08",
+        "color4": "#986960",
+        "color5": "#A28D6F",
+        "color6": "#648B80",
+        "color7": "#ccd2cf",
+        "color8": "#8e9390",
+        "color9": "#66695F",
+        "color10": "#9F1006",
+        "color11": "#D01D08",
+        "color12": "#986960",
+        "color13": "#A28D6F",
+        "color14": "#648B80",
+        "color15": "#ccd2cf"
+    }
+}

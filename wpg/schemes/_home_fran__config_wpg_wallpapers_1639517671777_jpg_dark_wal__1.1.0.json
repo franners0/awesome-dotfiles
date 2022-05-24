@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/1639517671777.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0809",
+        "foreground": "#debdbe",
+        "cursor": "#debdbe"
+    },
+    "colors": {
+        "color0": "#0E0809",
+        "color1": "#76414E",
+        "color2": "#905360",
+        "color3": "#AE6B76",
+        "color4": "#BD7981",
+        "color5": "#D0788A",
+        "color6": "#BC9788",
+        "color7": "#debdbe",
+        "color8": "#9b8485",
+        "color9": "#76414E",
+        "color10": "#905360",
+        "color11": "#AE6B76",
+        "color12": "#BD7981",
+        "color13": "#D0788A",
+        "color14": "#BC9788",
+        "color15": "#debdbe"
+    }
+}

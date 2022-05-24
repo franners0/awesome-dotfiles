@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Obi_-_@pixel6propix_2khZ_ovHDjg.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#10110f",
+        "foreground": "#d7c7dc",
+        "cursor": "#d7c7dc"
+    },
+    "colors": {
+        "color0": "#10110f",
+        "color1": "#B01835",
+        "color2": "#E10205",
+        "color3": "#1C5D9D",
+        "color4": "#6A5F9F",
+        "color5": "#C558A0",
+        "color6": "#548EC9",
+        "color7": "#d7c7dc",
+        "color8": "#968b9a",
+        "color9": "#B01835",
+        "color10": "#E10205",
+        "color11": "#1C5D9D",
+        "color12": "#6A5F9F",
+        "color13": "#C558A0",
+        "color14": "#548EC9",
+        "color15": "#d7c7dc"
+    }
+}

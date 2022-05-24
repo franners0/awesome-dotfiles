@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Shihab_Chowdhury_dAKhpK3MEw0.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090d0c",
+        "foreground": "#c6c7c3",
+        "cursor": "#c6c7c3"
+    },
+    "colors": {
+        "color0": "#090d0c",
+        "color1": "#CE8D2F",
+        "color2": "#898879",
+        "color3": "#989778",
+        "color4": "#397C84",
+        "color5": "#338B90",
+        "color6": "#60979A",
+        "color7": "#c6c7c3",
+        "color8": "#8a8b88",
+        "color9": "#CE8D2F",
+        "color10": "#898879",
+        "color11": "#989778",
+        "color12": "#397C84",
+        "color13": "#338B90",
+        "color14": "#60979A",
+        "color15": "#c6c7c3"
+    }
+}

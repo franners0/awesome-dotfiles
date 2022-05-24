@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Adrian_N_xtVw_MPV7SY.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100c09",
+        "foreground": "#dad7d5",
+        "cursor": "#dad7d5"
+    },
+    "colors": {
+        "color0": "#100c09",
+        "color1": "#5D5A63",
+        "color2": "#9C674A",
+        "color3": "#BF8E5D",
+        "color4": "#2E5D93",
+        "color5": "#17AACC",
+        "color6": "#A1989C",
+        "color7": "#dad7d5",
+        "color8": "#989695",
+        "color9": "#5D5A63",
+        "color10": "#9C674A",
+        "color11": "#BF8E5D",
+        "color12": "#2E5D93",
+        "color13": "#17AACC",
+        "color14": "#A1989C",
+        "color15": "#dad7d5"
+    }
+}

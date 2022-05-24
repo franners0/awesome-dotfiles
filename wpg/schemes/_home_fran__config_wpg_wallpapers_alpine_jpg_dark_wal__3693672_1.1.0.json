@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/alpine.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e1212",
+        "foreground": "#dbdad1",
+        "cursor": "#dbdad1"
+    },
+    "colors": {
+        "color0": "#0e1212",
+        "color1": "#868677",
+        "color2": "#D5AB66",
+        "color3": "#7A8B86",
+        "color4": "#8F968C",
+        "color5": "#9CA59B",
+        "color6": "#ADB3AC",
+        "color7": "#dbdad1",
+        "color8": "#999892",
+        "color9": "#868677",
+        "color10": "#D5AB66",
+        "color11": "#7A8B86",
+        "color12": "#8F968C",
+        "color13": "#9CA59B",
+        "color14": "#ADB3AC",
+        "color15": "#dbdad1"
+    }
+}

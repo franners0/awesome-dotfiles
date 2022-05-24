@@ -1,0 +1,1 @@
+/home/fran/.config/awesome/themes/chameleon/colors.lua

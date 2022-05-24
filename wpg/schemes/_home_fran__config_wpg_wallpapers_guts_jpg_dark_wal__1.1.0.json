@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/guts.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030202",
+        "foreground": "#f6eadd",
+        "cursor": "#f6eadd"
+    },
+    "colors": {
+        "color0": "#030202",
+        "color1": "#CC9271",
+        "color2": "#6F6CA8",
+        "color3": "#7C95C1",
+        "color4": "#B09B95",
+        "color5": "#D7AB91",
+        "color6": "#F9D3AD",
+        "color7": "#f6eadd",
+        "color8": "#aca39a",
+        "color9": "#CC9271",
+        "color10": "#6F6CA8",
+        "color11": "#7C95C1",
+        "color12": "#B09B95",
+        "color13": "#D7AB91",
+        "color14": "#F9D3AD",
+        "color15": "#f6eadd"
+    }
+}

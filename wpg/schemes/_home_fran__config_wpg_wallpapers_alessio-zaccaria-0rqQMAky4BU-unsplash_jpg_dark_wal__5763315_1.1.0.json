@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/alessio-zaccaria-0rqQMAky4BU-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#091013",
+        "foreground": "#c1c8c9",
+        "cursor": "#c1c8c9"
+    },
+    "colors": {
+        "color0": "#091013",
+        "color1": "#B9412E",
+        "color2": "#CC8C60",
+        "color3": "#547986",
+        "color4": "#937789",
+        "color5": "#71909A",
+        "color6": "#65AEC3",
+        "color7": "#c1c8c9",
+        "color8": "#878c8c",
+        "color9": "#B9412E",
+        "color10": "#CC8C60",
+        "color11": "#547986",
+        "color12": "#937789",
+        "color13": "#71909A",
+        "color14": "#65AEC3",
+        "color15": "#c1c8c9"
+    }
+}

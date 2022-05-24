@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/countach.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0a08",
+        "foreground": "#cdd1ca",
+        "cursor": "#cdd1ca"
+    },
+    "colors": {
+        "color0": "#0f0a08",
+        "color1": "#87775A",
+        "color2": "#7A8770",
+        "color3": "#CD9932",
+        "color4": "#8C896E",
+        "color5": "#7C9684",
+        "color6": "#99A492",
+        "color7": "#cdd1ca",
+        "color8": "#8f928d",
+        "color9": "#87775A",
+        "color10": "#7A8770",
+        "color11": "#CD9932",
+        "color12": "#8C896E",
+        "color13": "#7C9684",
+        "color14": "#99A492",
+        "color15": "#cdd1ca"
+    }
+}

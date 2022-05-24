@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/schizophrenia.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010102",
+        "foreground": "#ff0990",
+        "cursor": "#ff0990"
+    },
+    "colors": {
+        "color0": "#010102",
+        "color1": "#C61C3F",
+        "color2": "#0C8579",
+        "color3": "#9E0821",
+        "color4": "#323099",
+        "color5": "#AD2098",
+        "color6": "#7fc9c6",
+        "color7": "#9B0653",
+        "color8": "#010134",
+        "color9": "#ff1549",
+        "color10": "#06b6a4",
+        "color11": "#d60124",
+        "color12": "#3431d4",
+        "color13": "#ee1ccf",
+        "color14": "#8fffff",
+        "color15": "#ff0990"
+    }
+}

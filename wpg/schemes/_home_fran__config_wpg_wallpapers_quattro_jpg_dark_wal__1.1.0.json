@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/quattro.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0907",
+        "foreground": "#dbccc0",
+        "cursor": "#dbccc0"
+    },
+    "colors": {
+        "color0": "#0D0907",
+        "color1": "#6D4732",
+        "color2": "#5A5457",
+        "color3": "#9A5D29",
+        "color4": "#9F6E4E",
+        "color5": "#C69562",
+        "color6": "#667A8F",
+        "color7": "#dbccc0",
+        "color8": "#998e86",
+        "color9": "#6D4732",
+        "color10": "#5A5457",
+        "color11": "#9A5D29",
+        "color12": "#9F6E4E",
+        "color13": "#C69562",
+        "color14": "#667A8F",
+        "color15": "#dbccc0"
+    }
+}

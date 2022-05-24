@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Maksym_Pozniak-Haraburda_Rx7cS_VPawM.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0A07",
+        "foreground": "#e0e4e5",
+        "cursor": "#e0e4e5"
+    },
+    "colors": {
+        "color0": "#0F0A07",
+        "color1": "#959E64",
+        "color2": "#46758E",
+        "color3": "#5C94A0",
+        "color4": "#9FA799",
+        "color5": "#B1BFBA",
+        "color6": "#ABCAD8",
+        "color7": "#e0e4e5",
+        "color8": "#9c9fa0",
+        "color9": "#959E64",
+        "color10": "#46758E",
+        "color11": "#5C94A0",
+        "color12": "#9FA799",
+        "color13": "#B1BFBA",
+        "color14": "#ABCAD8",
+        "color15": "#e0e4e5"
+    }
+}

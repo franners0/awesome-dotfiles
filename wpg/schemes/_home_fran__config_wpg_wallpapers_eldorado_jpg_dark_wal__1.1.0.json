@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/eldorado.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1c1f",
+        "foreground": "#b8bdbf",
+        "cursor": "#b8bdbf"
+    },
+    "colors": {
+        "color0": "#1c1c1f",
+        "color1": "#A73D48",
+        "color2": "#99565C",
+        "color3": "#D05C6E",
+        "color4": "#686C8B",
+        "color5": "#8C768F",
+        "color6": "#EA778C",
+        "color7": "#b8bdbf",
+        "color8": "#808485",
+        "color9": "#A73D48",
+        "color10": "#99565C",
+        "color11": "#D05C6E",
+        "color12": "#686C8B",
+        "color13": "#8C768F",
+        "color14": "#EA778C",
+        "color15": "#b8bdbf"
+    }
+}

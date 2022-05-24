@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/bladerunner.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131016",
+        "foreground": "#b1bedb",
+        "cursor": "#b1bedb"
+    },
+    "colors": {
+        "color0": "#131016",
+        "color1": "#90222C",
+        "color2": "#B6434C",
+        "color3": "#3861A4",
+        "color4": "#626EA8",
+        "color5": "#8B5D9C",
+        "color6": "#7087B7",
+        "color7": "#b1bedb",
+        "color8": "#7b8599",
+        "color9": "#90222C",
+        "color10": "#B6434C",
+        "color11": "#3861A4",
+        "color12": "#626EA8",
+        "color13": "#8B5D9C",
+        "color14": "#7087B7",
+        "color15": "#b1bedb"
+    }
+}

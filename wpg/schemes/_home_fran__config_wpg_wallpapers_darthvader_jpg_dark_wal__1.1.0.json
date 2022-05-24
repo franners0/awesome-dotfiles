@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/darthvader.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0c09",
+        "foreground": "#c6c4c4",
+        "cursor": "#c6c4c4"
+    },
+    "colors": {
+        "color0": "#0e0c09",
+        "color1": "#3E4248",
+        "color2": "#625E60",
+        "color3": "#954238",
+        "color4": "#91867B",
+        "color5": "#5F788D",
+        "color6": "#708A99",
+        "color7": "#c6c4c4",
+        "color8": "#8a8989",
+        "color9": "#3E4248",
+        "color10": "#625E60",
+        "color11": "#954238",
+        "color12": "#91867B",
+        "color13": "#5F788D",
+        "color14": "#708A99",
+        "color15": "#c6c4c4"
+    }
+}

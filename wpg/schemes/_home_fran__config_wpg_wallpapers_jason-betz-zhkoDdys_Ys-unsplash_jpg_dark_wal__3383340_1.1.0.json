@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/jason-betz-zhkoDdys_Ys-unsplash.jpg",
+    "alpha": "50",
+
+    "special": {
+        "background": "#0c0a09",
+        "foreground": "#fff3ef",
+        "cursor": "#fff3ef"
+    },
+    "colors": {
+        "color0": "#0c0a09",
+        "color1": "#B83334",
+        "color2": "#2E4854",
+        "color3": "#DC6460",
+        "color4": "#263A46",
+        "color5": "#535A64",
+        "color6": "#355768",
+        "color7": "#c8b9b6",
+        "color8": "#28211e",
+        "color9": "#fe3234",
+        "color10": "#336075",
+        "color11": "#ff6e68",
+        "color12": "#2a4d62",
+        "color13": "#60728d",
+        "color14": "#3a7491",
+        "color15": "#fff3ef"
+    }
+}

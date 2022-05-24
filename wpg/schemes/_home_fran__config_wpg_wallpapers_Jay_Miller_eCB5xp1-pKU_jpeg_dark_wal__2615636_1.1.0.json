@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/Jay_Miller_eCB5xp1-pKU.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1d15",
+        "foreground": "#dcdee6",
+        "cursor": "#dcdee6"
+    },
+    "colors": {
+        "color0": "#1a1d15",
+        "color1": "#3D8694",
+        "color2": "#5295A9",
+        "color3": "#5EA3C1",
+        "color4": "#6EACC8",
+        "color5": "#A2ABAB",
+        "color6": "#B7CBE3",
+        "color7": "#dcdee6",
+        "color8": "#9a9ba1",
+        "color9": "#3D8694",
+        "color10": "#5295A9",
+        "color11": "#5EA3C1",
+        "color12": "#6EACC8",
+        "color13": "#A2ABAB",
+        "color14": "#B7CBE3",
+        "color15": "#dcdee6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/hello-i-m-nik-U6XnkLqtSFk-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100e0b",
+        "foreground": "#d0dddf",
+        "cursor": "#d0dddf"
+    },
+    "colors": {
+        "color0": "#100e0b",
+        "color1": "#557A85",
+        "color2": "#AA7985",
+        "color3": "#3F8E9E",
+        "color4": "#6F8F97",
+        "color5": "#97A2A4",
+        "color6": "#C1B0B4",
+        "color7": "#d0dddf",
+        "color8": "#919a9c",
+        "color9": "#557A85",
+        "color10": "#AA7985",
+        "color11": "#3F8E9E",
+        "color12": "#6F8F97",
+        "color13": "#97A2A4",
+        "color14": "#C1B0B4",
+        "color15": "#d0dddf"
+    }
+}

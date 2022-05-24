@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/veeterzy_sMQiL_2v4vs.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#10100c",
+        "foreground": "#fdeef3",
+        "cursor": "#fdeef3"
+    },
+    "colors": {
+        "color0": "#10100c",
+        "color1": "#8B7446",
+        "color2": "#77872A",
+        "color3": "#A9A745",
+        "color4": "#716A49",
+        "color5": "#A29958",
+        "color6": "#6D6E30",
+        "color7": "#c0b4b8",
+        "color8": "#2c2c21",
+        "color9": "#c29b4d",
+        "color10": "#a2bb2b",
+        "color11": "#ebe74a",
+        "color12": "#9e9152",
+        "color13": "#e2d362",
+        "color14": "#979934",
+        "color15": "#fdeef3"
+    }
+}

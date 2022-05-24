@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/pawel-czerwinski-NTYYL9Eb9y8-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09090D",
+        "foreground": "#02c2ff",
+        "cursor": "#02c2ff"
+    },
+    "colors": {
+        "color0": "#09090D",
+        "color1": "#AB1E4B",
+        "color2": "#02578F",
+        "color3": "#D65D4C",
+        "color4": "#047CBF",
+        "color5": "#A53C38",
+        "color6": "#77b8d5",
+        "color7": "#0274B0",
+        "color8": "#1d1d2b",
+        "color9": "#eb195c",
+        "color10": "#0171bb",
+        "color11": "#ff6a4f",
+        "color12": "#01a2fc",
+        "color13": "#e4403a",
+        "color14": "#85f7ff",
+        "color15": "#02c2ff"
+    }
+}

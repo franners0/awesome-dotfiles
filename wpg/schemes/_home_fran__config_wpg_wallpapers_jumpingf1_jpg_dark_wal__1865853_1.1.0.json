@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/jumpingf1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a06",
+        "foreground": "#e5e4e5",
+        "cursor": "#e5e4e5"
+    },
+    "colors": {
+        "color0": "#0a0a06",
+        "color1": "#5E5F62",
+        "color2": "#66686D",
+        "color3": "#9E2E20",
+        "color4": "#91907A",
+        "color5": "#505D8B",
+        "color6": "#A9A8AE",
+        "color7": "#e5e4e5",
+        "color8": "#a09fa0",
+        "color9": "#5E5F62",
+        "color10": "#66686D",
+        "color11": "#9E2E20",
+        "color12": "#91907A",
+        "color13": "#505D8B",
+        "color14": "#A9A8AE",
+        "color15": "#e5e4e5"
+    }
+}

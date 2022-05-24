@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fran/.config/wpg/wallpapers/flux.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121916",
+        "foreground": "#ffffe7",
+        "cursor": "#ffffe7"
+    },
+    "colors": {
+        "color0": "#121916",
+        "color1": "#DB665C",
+        "color2": "#9F5951",
+        "color3": "#DFC467",
+        "color4": "#EF9270",
+        "color5": "#DF6F8A",
+        "color6": "#F1A893",
+        "color7": "#f0e3c7",
+        "color8": "#26362f",
+        "color9": "#ff7363",
+        "color10": "#de6759",
+        "color11": "#ffff70",
+        "color12": "#ffb37a",
+        "color13": "#ff7aa8",
+        "color14": "#ffcca5",
+        "color15": "#ffffe7"
+    }
+}
