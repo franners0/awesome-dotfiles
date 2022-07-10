@@ -55,7 +55,7 @@ local function factory(args)
 
             for line in string.gmatch(f, "[^\n]+") do
                 for k, v in string.gmatch(line, "[%w]+%s[%w]+:([%w]+)%s+(.*)$") do
-                    if     k == "title"          then playerctl_now.title       = v 
+                    if     k == "title"          then playerctl_now.title       = v .. " | "
                     elseif k == "artist"         then playerctl_now.artist      = v .. " - "
                     elseif k == "album"          then playerctl_now.album       = escape_f(v)
                     elseif k == "artUrl"         then playerctl_now.artUrl      = escape_f(v)

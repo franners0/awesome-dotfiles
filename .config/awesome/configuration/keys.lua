@@ -25,9 +25,11 @@ local hotkeys_popup = require("awful.hotkeys_popup")
 local dpi = beautiful.xresources.apply_dpi
 local menubar = require("menubar")
 local lain = require("lain")
--- Define mod keys
 
-
+modkey = "Mod4"
+altkey = "Mod1"
+shift = "Shift"
+ctrl = "Control"
 
 -- Mouse Bindings
 awful.mouse.append_global_mousebindings({
@@ -45,29 +47,22 @@ end
 
 -- Client and Tabs Bindings
 awful.keyboard.append_global_keybindings({
-   awful.key({"Mod1"}, "a",
-             function() bling.module.tabbed.pick_with_dmenu() end,
-             {description = "pick client to add to tab group", group = "tabs"}),
-   awful.key({"Mod1"}, "s", function() bling.module.tabbed.iter() end,
-             {description = "iterate through tabbing group", group = "tabs"}),
-   awful.key({"Mod1"}, "d", function() bling.module.tabbed.pop() end, {
-       description = "remove focused client from tabbing group",
-       group = "tabs"
-   }), awful.key({modkey}, "Down", function()
+
+awful.key({modkey}, "Down", function()
        awful.client.focus.bydirection("down")
-       bling.module.flash_focus.flashfocus(client.focus)
+
    end, {description = "focus down", group = "client"}),
    awful.key({modkey}, "Up", function()
        awful.client.focus.bydirection("up")
-       bling.module.flash_focus.flashfocus(client.focus)
+
    end, {description = "focus up", group = "client"}),
    awful.key({modkey}, "Left", function()
        awful.client.focus.bydirection("left")
-       bling.module.flash_focus.flashfocus(client.focus)
+
    end, {description = "focus left", group = "client"}),
    awful.key({modkey}, "Right", function()
        awful.client.focus.bydirection("right")
-       bling.module.flash_focus.flashfocus(client.focus)
+
    end, {description = "focus right", group = "client"}),
    awful.key({modkey}, "j", function() awful.client.focus.byidx(1) end,
              {description = "focus next by index", group = "client"}),
@@ -126,10 +121,13 @@ awful.keyboard.append_global_keybindings({
 
    -- Screen Shots/Vids
    awful.key({}, "Print", function()
-       awful.spawn(apps.screenshot
-    )
+       awful.util.spawn_with_shell("scrot ~/Pictures/Screenshots/screen.png")
    end, {description = "take a screenshot", group = "awesome"}),
   
+   awful.key({Shift}, "Print", function()
+    awful.util.spawn_with_shell("scrot -u ~/Pictures/Screenshots/window.png")
+   end, {description = "take a screenshot", group = "awesome"}),
+
    -- Awesome stuff
    awful.key({modkey}, "F1", hotkeys_popup.show_help,
              {description = "show help", group = "awesome"}),
@@ -152,7 +150,11 @@ awful.keyboard.append_global_keybindings({
 
 -- Launcher and screen
 awful.keyboard.append_global_keybindings({
-    awful.key({modkey}, "r", function() menubar.show() end,
+    awful.key({modkey}, "r", function() menubar.show(s) end,
+    {description = "application launcher", group = "launcher"}),
+
+
+    awful.key({modkey, "Shift"}, "r", function() awful.screen.focused().mypromptbox:run() end,
     {description = "application launcher", group = "launcher"}),
 
    awful.key({modkey, "Control"}, "j",
@@ -221,6 +223,7 @@ client.connect_signal("request::default_keybindings", function()
    awful.keyboard.append_client_keybindings({
     awful.key({ modkey}, "m",
     function (c)
+        c.floating = not c.floating
         c.fullscreen = not c.fullscreen
         c:raise()
     end,
@@ -254,6 +257,11 @@ client.connect_signal("request::default_keybindings", function()
            c.minimized = true
        end, {description = "minimize", group = "client"}),
 
+       awful.key({modkey}, "ñ", function(c)
+        c.maximized = not c.maximized
+        c:raise()
+    end, {description = "(un)maximize", group = "client"}),
+
        -- On the fly padding change
        awful.key({modkey, shift}, "=",
                  function() helpers.resize_padding(5) end,
@@ -274,7 +282,7 @@ client.connect_signal("request::default_keybindings", function()
     -- Show/hide wibox
     awful.key({ modkey }, "b", function ()
         for s in screen do
-            s.mywibox.visible = not s.mywibox.visible
+            s.bar.visible = not s.bar.visible
             if s.mybottomwibox then
                 s.mybottomwibox.visible = not s.mybottomwibox.visible
             end
